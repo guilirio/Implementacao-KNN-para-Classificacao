@@ -89,7 +89,6 @@ que o split treino/teste e os resultados sejam reproduzíveis entre execuções.
 - Relatório de até 1 página (`.pdf`) com a comparação entre as implementações e
   a análise de desempenho (conclusão)
 
-## Autores
+## Autor
 
-- Nome 1
-- Nome 2
+- Guilherme Lirio
